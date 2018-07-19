@@ -211,7 +211,7 @@ A: No, Java and JavaScript are the two different languages. Java is a robust, se
 
 A: A variable (defined using a #) in a component template, which can be referenced in other parts of the template. For example, a template variable for a form can then be referenced by other elements of the form.
 
-**2. What is <ng-template>?**
+**2. What is ng-template?**
 
 A: It's an Angular element for rendering HTML when using structural directives. The ng-template itself does not render to anything but a commment directly.
 
